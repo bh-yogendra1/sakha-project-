@@ -1,0 +1,33 @@
+
+0.   https://github.com/amanchopra1/sak.git
+1.   pip install virtualenv
+2.   virtualenv venvironment
+3.   venvironment\Scripts\activate
+4.   pip install -r requirements.txt 
+5.      
+
+
+"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"
+
+git config --global user.name "bh-yogendra1"
+git config --global user.email "bharadwaj.yogendra1@gmail.com"
+
+
+
+
+
+how to run in windows
+data base change .
+run 2nd 3rd 4th command
+chat.py -45 no line change api key.
+than open terminal along with open main in vs coade
+1.   python
+2.   import nltk
+     nltk.download('punkt')
+3.   nltk.domen
+4.   quit()
+-------------------------------------------------------
+python train.py
+python chat.py
+python app.py   (tahn 2 add is display presss CTRL+ CLICK ON LINK AND OPEN 
+BROWSER GO ON LOCAL DOMAIN
